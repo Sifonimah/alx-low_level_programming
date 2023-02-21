@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 
 
@@ -52,14 +52,6 @@ include "main.h"
 
 
 =====================================
-
-
-
-2-main.c CODE
-
-
-
-
 #include "main.h"
 
 
@@ -83,3 +75,8 @@ include "main.h"
             return (0);
 
         }
+
+
+
+
+=====================================
